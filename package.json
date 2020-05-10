@@ -1,0 +1,21 @@
+{
+  "name": "kerala-data",
+  "version": "1.0.0",
+  "description": "This package contain all the kerala public details.",
+  "main": "index.js",
+  "keywords": [
+    "kerala",
+    "kerala-data",
+    "kerala-api"
+  ],
+  "author": "fahimvalanchery",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimvalanchery/kerala-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fahimvalanchery/kerala-data.git/issues"
+  },
+  "homepage": "https://github.com/fahimvalanchery/kerala-data.git#readme"
+}
